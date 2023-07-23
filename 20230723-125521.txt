@@ -1,6 +1,6 @@
 empty2023-07-23 12:54:14.548909
 ===================================================================
-PLATAFORMA		USUARIO		CONTRASEÑA		INDICIO
+PLATAFORMA		USUARIO		CONTRASEÃ‘A		INDICIO
 ===================================================================
-['ULVR', 'jpaladinesn@ulvr.edu.ec', 'TDDR11212g*', 'ninguna']
+['VLU', 'jpala@vlu.edu.cl', 'TDDR16578', 'ninguna']
 ===================================================================
