@@ -1,17 +1,17 @@
 2023-07-23 12:03:13.008147
 ===================================================================
-PLATAFORMA			USUARIO			CONTRASEÑA			INDICIO
+PLATAFORMA			USUARIO			CONTRASEÃ‘A			INDICIO
 ===================================================================
-['Facebook', 'jonassamux@gmail.com', 'sSilus50', 'Mi mejor pokemon']
+['Facebook', 'jonas@gmail.com', 'pikachu50', 'Mi mejor pokemon']
 ===================================================================2023-07-23 12:20:03.306119
 ===================================================================
-PLATAFORMA		USUARIO		CONTRASEÑA		INDICIO
+PLATAFORMA		USUARIO		CONTRASEÃ‘A		INDICIO
 ===================================================================
-['Google', 'leon.paladines84@gmail.com', 'sSilus60', 'Otro Pokemon']
+['Google', 'leon.pal@gmail.com', 'charmander60', 'Otro Pokemon']
 ===================================================================
 2023-07-23 12:22:04.962268
 ===================================================================
-PLATAFORMA		USUARIO		CONTRASEÑA		INDICIO
+PLATAFORMA		USUARIO		CONTRASEÃ‘A		INDICIO
 ===================================================================
-['github', 'jlpn.new@gmail.com', '12345', 'la contraseña mas hackeable de todas']
+['github', 'jfps.new@gmail.com', '12345', 'la contraseÃ±a mas hackeable de todas']
 ===================================================================
